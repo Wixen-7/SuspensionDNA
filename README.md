@@ -288,8 +288,6 @@ Potential future development includes:
 
 **Ojaswi Rai**
 
-Project Guide: Prof. L. A. Kumaraswamidhas
-
 ## Project Status
 
 **Under Development**
